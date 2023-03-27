@@ -62,5 +62,41 @@ ZADANIE 3
 
 ZADANIE 4
 
+1. Po przeprowadzeniu rozmowy z kilkoma chatbotami, w oczy najbardziej rzucają się różnice pomiędzy płynnością wypowiedzi. Boty zaprojektowane na bycie asystentem są schematycze i nie umieją analizować innego kontekstu niż ten który jest im z góry narzucony. Boty które mają przechodzić test turinga są elastyczniejsze w manewrowaniu po zmianach tematu i kontekstu. 
+Boty typu "asystent" również nie próbują udawać tego, że rozmowa ma się toczyć naturalnie, te drugie za to starają się naśladować naturalny przebieg ludzkiej rozmowy.
+Boty asystentowe posługują się jedynie faktami i starają się dopasować kontekst odpowiedzi na pytanie do tego jak mają pracować np: bot inpostu odpowiada jedynie faktami związanymi z przesyłką lub informacjami na temat przesyłki. Nie jest zainteresowany pytaniem o to jak on się dzisiaj czuje. Za to już Cleverbot bardzo chętnie powie mi, że chce zjeść ze mną kolacje oraz urodzić mi dwóch synów, zanim zdążyłam jeszce powiedzieć cokolwiek o swoim dniu.
+
+2. Używane boty: Inpost, ALICE, Cleverbot, chatbot.pl
+
+a) opowiadanie żartów - Asystent: nie reaguje, bądź uznaje to za nieodpowiednie do rozmowy, ewentualnie odpowiada zartem ale odrazu przekierowuje do swojego głównego zadania np tyra sie jak dzisiaj moze mi pomoc. Turing: opowiada zart, pyta o opinie, przechodzi do dalszej rozmowy.  
+
+b) przytaczanie cytatów z twoich wypowiedzi, lub znanych osób - w moim przypadku obydwa nie zareagowaly niczym. Turing jedynie staral się nawiązać rozmowę wokół tego co próbował wywnioskować z tej wiadomości ale była ona kompletnie pozbawiona konstekstu wcześniejszych wiadomosci. 
+
+c) nawiązywanie wypowiedzi do słów kluczowych - bot asystent starał się przekierować mnie do konsultanta gdy slowo nie bylo zwiazane z jego funkcja, Turingowiec: próbował nawiązać rozmowę która trwała w sumie nawet krótką chwilę (później zgubił wątek słowa kluczowego)
+
+d) zadawanie dużej liczby pytań - bot asystent zaczął mnie znów kierować do konsultanta, Turing: w pewnym momencie zapytał czy możemy zmienić temat.
+
+e) powracanie do początku wypowiedzi, sekwencyjne powtarzanie - z oboma botami ciężko było wracać do początku wypowiedzi, jako, że ciężko było im pamiętać co się wtedy działo i odnosić się do tego w kontekscie obecnej rozmowy. Powtarzanie co jakiś czas też nie miało na nie skutku oprócz ALICE która w pewnym momencie powiedziała mi, że już na ten temat rozmawialiśmy. 
+
+f) zadawanie pytań powstających z twoich wypowiedzi - tradycyjnie bot asystent: odesłanie do konsultanta, a Turingowiec: nie wie co się dzieje ale stara się odpowiadać na pytania wg swojego własnego wzorca
+
+g) odpowiadanie wymijająco, ogólnikowo - bot asystent prosi o wyprecyzowanie zapytań, boty Turingowce nie zauważają zmiany w tym jak odpowiadam, oprócz ALICE, która zapytała w pewnym momencie, czy nudzi mnie ta rozmowa, gdy odpowiedziałam w wymijający sposób, że nie - i tak zmieniła temat
+
+h) częsta zmiana tematu rozmowy - o dziwo bot asystent lepiej dawał sobie radę z taką sytuacją o ile dotyczyła tego czym się zajmował (inpost np. paczek) a chatbot.pl jest zaprojektowany by odpowiadac na pytania bezkontekstowo. 
+
+i) problemy z utrzymaniem wątków - nie do konca wiem czy polecenie zrozumiałam polecenie i czy nieutrzymywanie wątków miało być z mojej strony, ale bot asystent nie radził sobie z taką sytuacją, nie umiał mi przypomnieć o czym mowiłam chwilę temu - bot Turingowy już tak ale jeśli tyczyło się to wcześniejszej wiadomości - z wyjątkiem Cleverbota on po prostu nie dawał żadnych odpowiedzi z sensem, bardziej próbował mnie obrazać za moją krótką pamięć.
+
+5. ![image](https://user-images.githubusercontent.com/59253919/228076020-0ea97adb-3a96-4939-baea-ce550373eb28.png) - zirytowany cleverbot
+
+![Screenshot from 2023-03-25 23-58-11](https://user-images.githubusercontent.com/59253919/228076097-41e47907-9d4d-441b-8227-bb2a31b05b7f.png) - cięta riposta od ALICE
+
+![Screenshot from 2023-03-25 23-33-55](https://user-images.githubusercontent.com/59253919/228076188-1f0e1843-b4d9-4a40-844c-badb3628c028.png) - podirytowana pani asystent w bardzo wątpliwym konteksćie
+
+
+
+
+
+
+
 
 
