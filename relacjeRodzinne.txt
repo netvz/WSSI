@@ -1,0 +1,7 @@
+A. x-brat y, y-brat x; rodzenstwo
+B. x-kuzyn y, y-kuzyn x; kuzynostwo
+C. dziadkowie spojeni ze sobą przez małżeństwo pomiedzy dzieckiem x a dzieckiem y; wspoltesciowie
+D. x-pasierb, y-macocha; przybrana rodzina
+E. x-brat przyrodni, y-brat przyrodni; rodzenstwo przyrodnie
+F. x-malzonek brata y, y-brat malzonka x; szwagrowie
+G. x jest wujkiem i bratem y?; skomplikowana relacja rodzinna?
